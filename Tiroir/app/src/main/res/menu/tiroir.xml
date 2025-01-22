@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/Activity1"
+        android:checkable="true"
+        android:title="Activity1" />
+    <item
+        android:id="@+id/Activity2"
+        android:checkable="true"
+        android:title="Activity2" />
+    <item
+        android:id="@+id/Activity3"
+        android:checkable="true"
+        android:title="Activity3" />
+</menu>

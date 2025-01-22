@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tiroir</string>
+    <string name="ouvert">Ouvert</string>
+    <string name="ferme">Fermé</string>
+</resources>
