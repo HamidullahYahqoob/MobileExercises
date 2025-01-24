@@ -1,0 +1,20 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color bleu1
+color bleu2
+color rouge1
+color rouge2
+color vert1
+color vert2
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.Proportions
+style Theme.Proportions
+xml backup_rules
+xml data_extraction_rules

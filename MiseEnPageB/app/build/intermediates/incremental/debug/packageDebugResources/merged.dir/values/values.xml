@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="bleu1">#FF0000FF</color>
+    <color name="bleu2">#FF000099</color>
+    <color name="rouge1">#FFFF0000</color>
+    <color name="rouge2">#FF990000</color>
+    <color name="vert1">#FF00FF00</color>
+    <color name="vert2">#FF009900</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Proportions</string>
+    <style name="Base.Theme.Proportions" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.Proportions" parent="Base.Theme.Proportions"/>
+</resources>
