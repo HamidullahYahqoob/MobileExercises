@@ -1,0 +1,10 @@
+interface Service {
+
+		@GET("fibo/{num}")
+		fun listFubo(@("num")numeros:Int):Call<List<Int>>
+		
+}
+
+
+
+
